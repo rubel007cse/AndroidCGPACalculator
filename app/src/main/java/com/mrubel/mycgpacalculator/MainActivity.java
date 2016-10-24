@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
                 // showing on textView
                 _output.setText("CGPA is: "+c);
 
+
+
             }
         });
 
